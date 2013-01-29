@@ -16,6 +16,7 @@ Run tests by doing (make sure prime_tests is in same repo as prime.py):
 $> python prime_tests.py
 
 python prime.py
+
 Please enter the first n prime numbers you would like to see: 10
 
      X      |      2      3      5      7     11     13     17     19     23     29
